@@ -1,0 +1,10 @@
+{
+  	"name": "ladda-bootstrap",
+  	"description": "",
+  	"homepage": "",
+  	"author": "Quantum Unity Ltd",
+  	"version": "0.1",
+  	"packages": {
+   		"bootstrap-3": {}
+  	}
+}
