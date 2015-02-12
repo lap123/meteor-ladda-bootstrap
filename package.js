@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-    api.use('mizzao:bootstrap-3', 'client');
+    // api.use('mizzao:bootstrap-3', 'client');
 
     api.addFiles('lib/ladda-themeless.css', 'client');
     api.addFiles('lib/spin.js', 'client');
